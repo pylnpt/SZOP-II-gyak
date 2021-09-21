@@ -1,0 +1,10 @@
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\bin\Debug\SZOP II gyak.exe.config
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP II gyak.csprojResolveAssemblyReference.cache
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP_II_gyak.Form1.resources
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP_II_gyak.Properties.Resources.resources
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP_II_gyak.SierpinskiForm.resources
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP II gyak.csproj.GenerateResource.Cache
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\bin\Debug\SZOP II gyak.exe
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\bin\Debug\SZOP II gyak.pdb
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP II gyak.exe
+D:\Molnár Péter\SZOP II gyak\SZOP II gyak\obj\Debug\SZOP II gyak.pdb
